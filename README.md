@@ -1,6 +1,6 @@
 # Abellaite
 
-![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
+![1](https://github.com/ManoloMancelli/Abellaite/blob/main/Docs/IMG/monostereo_and_042_engine.png)
 
 Abellaite is my super-cheap AR glasses project which uses two 0.42" OLED screens, some optics and Arduino Pro Micro.
 
