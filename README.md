@@ -1,5 +1,7 @@
 # Abellaite
 
+![1](https://github.com/ManoloMancelli/HadesVR_Remix/blob/main/docs/img/headset.png)
+
 Abellaite is my super-cheap AR glasses project which uses two 0.42" OLED screens, some optics and Arduino Pro Micro.
 
 Design is super simple. Everything can be easily made at home, provided you have soldering iron and hot-air.
