@@ -12,3 +12,13 @@ Of course there are severe limitations which come with this display.
 
 - Monochrome display
 - VERY low resolution
+
+# 0.42 Engine
+
+![1](https://github.com/ManoloMancelli/Abellaite/blob/main/Docs/IMG/042_engine.png)
+
+0.42 Engine is the cheapest way to test this project (apart from using bare display).
+
+It uses my custom breakout board which is really small and easy to assemble.
+
+You can find the gerber files for it [here]()
